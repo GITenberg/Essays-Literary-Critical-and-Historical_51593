@@ -1,0 +1,30 @@
+_repo: Essays-Literary-Critical-and-Historical_51593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Hagan, Thomas
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '38681'
+    url: http://www.gutenberg.org/2009/agents/38681
+description: ''
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892. Princess'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Literature -- Study and teaching -- Ontario'
+- !lcsh 'Catholic Church -- Controversial literature -- History and criticism'
+- GITenberg
+tableOfContents: A study of Tennyson's "Princess" -- Poetry and history teaching falsehood
+  -- The study and interpretation of literature -- The degradation of scholarship
+  -- The Italian Renaissance and the Popes of Avignon.
+title: Essays Literary, Critical and Historical
+url: http://www.gutenberg.org/ebooks/51593
